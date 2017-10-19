@@ -1,0 +1,45 @@
+.card, .card-image, .card-image {
+
+  font-size: 10vw;
+  font-weight: 100;
+  text-align: left;
+}
+
+body {
+  background-color: #F6F4F1!important;
+  font-family: 'Abel', sans-serif;
+}
+
+.top {
+  font-size: 15px;
+  font-family: 'Abel', sans-serif;
+  color: #846C63;
+}
+
+a {
+  font-size: 15px!important;
+  color: #88AAA9!important;
+}
+
+.nav-wrapper {
+  background-color: white!important;
+}
+
+.brand-logo {
+  color: #846C63 !important;
+  font-size: 30px!important;
+}
+
+.icon {
+  vertical-align: middle;
+}
+
+.btn {
+  color: white!important;
+  padding: 0px 10px 0px 10px!important;
+  text-transform: none;
+}
+
+/*button, .material-icons {
+  width: 18%;
+}*/
